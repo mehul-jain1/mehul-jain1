@@ -10,11 +10,11 @@
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
   <strong>Backend:</strong> Ruby on Rails, Python, Flask, PHP<br>
-  <strong>Frontend:</strong> JavaScript, React, Vue.js, HTML5, CSS3, Twig, Slim<br>
-  <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis<br>
+  <strong>Frontend:</strong> JavaScript, React, Vue.js<br>
+  <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch<br>
   <strong>DevOps:</strong> Docker, AWS, Heroku, CI/CD, Git<br>
-  <strong>Testing:</strong> RSpec, TDD, BDD, Jest<br>
-  <strong>Other:</strong> GraphQL, REST APIs, WebSockets, Action Cable
+  <strong>Testing:</strong> RSpec, PyTest<br>
+  <strong>Other:</strong> GraphQL, REST APIs
 </p>
 
 <h3 align="center">🚀 Featured Projects</h3>
