@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm <a href="https://mehul-jain1.github.io/blog/">Mehul Jain</a>, a Senior Full-Stack Engineer with 8+ years of experience specializing in Ruby, Python, and modern web technologies.</li>
-  <li>Check out my GitHub repositories on <a href="https://github.com/mehul-jain1/slim-framework-demo">Slim Framework</a>, <a href="https://github.com/mehul-jain1/graphql-rails-demo">GraphQL with Rails</a>, <a href="https://github.com/mehul-jain1/flask-api-base">Flask API Development</a>, and <a href="https://github.com/mehul-jain1/string_calculator_tdd">Test-Driven Development</a>.</li>
+  <li>Check out my GitHub repositories on <a href="https://github.com/mehul-jain1/graphql-rails-demo">GraphQL with Rails</a>, <a href="https://github.com/mehul-jain1/flask-api-base">Flask API Development</a>, <a href="https://github.com/mehul-jain1/string_calculator_tdd">Test-Driven Development</a>, and <a href="https://github.com/mehul-jain1/slim-framework-demo">Slim Framework</a>.</li>
   <li>Visit my <a href="https://mehul-jain1.github.io/blog/">personal blog</a> where I share insights on full-stack development and software engineering best practices.</li>
   <li>Currently based in <b>Bengaluru, India</b> and open to exciting opportunities in full-stack development.</li>
   <li>Connect with me on <a href="https://in.linkedin.com/in/mehuljain2">LinkedIn</a> and explore my <a href="https://mehul-jain1.github.io/blog/resume/resume.html">detailed resume</a> to learn more about my experience.</li>
