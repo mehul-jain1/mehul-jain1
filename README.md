@@ -47,7 +47,7 @@
 <h3 align="center">💼 Professional Experience</h3>
 <ul>
   <li><strong>Senior Full-Stack Engineer</strong> - 8+ years in software development</li>
-  <li><strong>Ruby & Python Specialist</strong> - Expert in Rails, andli>
+  <li><strong>Ruby & Python Developer</strong> - Experienced in Rails and Flask frameworks</li>
   <li><strong>Full-Stack Development</strong> - From database design to user interface implementation</li>
   <li><strong>API Development</strong> - RESTful services, GraphQL, and real-time applications</li>
   <li><strong>Technical Leadership</strong> - Code reviews, mentoring, and architecture decisions</li>
