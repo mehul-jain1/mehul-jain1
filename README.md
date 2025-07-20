@@ -9,7 +9,7 @@
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
-  <strong>Backend:</strong> Ruby on Rails, Python, Flask, Django, PHP, Node.js<br>
+  <strong>Backend:</strong> Ruby on Rails, Python, Flask, PHP<br>
   <strong>Frontend:</strong> JavaScript, React, Vue.js, HTML5, CSS3, Twig, Slim<br>
   <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis<br>
   <strong>DevOps:</strong> Docker, AWS, Heroku, CI/CD, Git<br>
@@ -47,7 +47,7 @@
 <h3 align="center">💼 Professional Experience</h3>
 <ul>
   <li><strong>Senior Full-Stack Engineer</strong> - 8+ years in software development</li>
-  <li><strong>Ruby & Python Specialist</strong> - Expert in Rails, Django, and Flask frameworks</li>
+  <li><strong>Ruby & Python Specialist</strong> - Expert in Rails, andli>
   <li><strong>Full-Stack Development</strong> - From database design to user interface implementation</li>
   <li><strong>API Development</strong> - RESTful services, GraphQL, and real-time applications</li>
   <li><strong>Technical Leadership</strong> - Code reviews, mentoring, and architecture decisions</li>
