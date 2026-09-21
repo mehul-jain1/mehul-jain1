@@ -1,70 +1,85 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
-<ul>
-  <li>I'm <a href="https://mehul-jain1.github.io/blog/">Mehul Jain</a>, a Senior Full-Stack Engineer with 8+ years of experience specializing in Ruby, Python, and modern web technologies.</li>
-  <li>Check out my GitHub repositories on <a href="https://github.com/mehul-jain1/graphql-rails-demo">GraphQL with Rails</a>, <a href="https://github.com/mehul-jain1/flask-api-base">Flask API Development</a>, <a href="https://github.com/mehul-jain1/string_calculator_tdd">Test-Driven Development</a>, and <a href="https://github.com/mehul-jain1/slim-framework-demo">Slim Framework</a>.</li>
-  <li>Visit my <a href="https://mehul-jain1.github.io/blog/">personal blog</a> where I share insights on full-stack development and software engineering best practices.</li>
-  <li>Currently based in <b>Bengaluru, India</b> and open to exciting opportunities in full-stack development.</li>
-  <li>Connect with me on <a href="https://in.linkedin.com/in/mehuljain2">LinkedIn</a> and explore my <a href="https://mehul-jain1.github.io/blog/resume/resume.html">detailed resume</a> to learn more about my experience.</li>
-</ul>
-
-<h3 align="center">🛠️ Technologies & Tools</h3>
-<p align="center">
-  <strong>Backend:</strong> Ruby on Rails, Python, Flask, PHP<br>
-  <strong>Frontend:</strong> JavaScript, React, Vue.js<br>
-  <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch<br>
-  <strong>DevOps:</strong> Docker, AWS, Heroku, CI/CD, Git<br>
-  <strong>Testing:</strong> RSpec, PyTest<br>
-  <strong>Other:</strong> GraphQL, REST APIs
-</p>
-
-<h3 align="center">🚀 Featured Projects</h3>
-<ul>
-  <li><strong>GraphQL Rails Demo:</strong> Modern API development with GraphQL and Ruby on Rails</li>
-  <li><strong>Flask API Base:</strong> Scalable Python API foundation with best practices</li>
-  <li><strong>Action Cable Demo:</strong> Real-time features with WebSockets in Rails</li>
-  <li><strong>Slim Framework Demo:</strong> Lightweight PHP microframework implementation</li>
-  <li><strong>String Calculator TDD:</strong> Test-driven development practices in Ruby</li>
-</ul>
-
-&nbsp;![](https://komarev.com/ghpvc/?username=mehul-jain1&color=brightgreen)
+<h1 align="center">Hi, I'm Mehul Jain 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehul-jain1&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="mehul-jain1" />
+  <strong>Senior Full-Stack Engineer</strong> at <a href="https://github.com/mehul-jain1">Emeritus</a><br>
+  Ruby, Python, and web APIs · Bengaluru, India
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-jain1&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="mehul-jain1" />
+  <a href="https://mehul-jain1.github.io/blog/">Blog</a> ·
+  <a href="https://mehul-jain1.github.io/blog/resume/resume.html">Resume</a> ·
+  <a href="https://www.linkedin.com/in/mehuljain2">LinkedIn</a> ·
+  <a href="mailto:mehuljain160@gmail.com">Email</a>
 </p>
 
-<h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  📧 <strong>Email:</strong> mehuljain160@gmail.com<br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/mehuljain2">linkedin.com/in/mehuljain2</a><br>
-  🌐 <strong>Website:</strong> <a href="https://mehul-jain1.github.io/blog/">mehul-jain1.github.io/blog</a><br>
-  📍 <strong>Location:</strong> Bengaluru, Karnataka, India
-</p>
-
-<h3 align="center">💼 Professional Experience</h3>
-<ul>
-  <li><strong>Senior Full-Stack Engineer</strong> - 8+ years in software development</li>
-  <li><strong>Ruby & Python Developer</strong> - Experienced in Rails and Flask frameworks</li>
-  <li><strong>Full-Stack Development</strong> - From database design to user interface implementation</li>
-  <li><strong>API Development</strong> - RESTful services, GraphQL, and real-time applications</li>
-  <li><strong>Technical Leadership</strong> - Code reviews, mentoring, and architecture decisions</li>
-</ul>
-
-<h3 align="center">🎓 Education</h3>
-<p align="center">
-  <strong>B.Tech in Computer Science and Engineering</strong><br>
-  SRM University, Chennai
+  <img src="https://komarev.com/ghpvc/?username=mehul-jain1&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
 
+I build full-stack web systems with a bias toward **Ruby on Rails** and **Python (Flask)**: REST and GraphQL APIs, data-heavy product features, and the tests and containers that keep them maintainable.
+
+GitHub is mostly **learning and demo work** (Rails, Flask, TDD katas). Day-to-day product work lives at Emeritus. I write notes on software engineering on my [personal blog](https://mehul-jain1.github.io/blog/).
+
+- 📍 Based in **Bengaluru, India**
+- 🎓 B.Tech, Computer Science and Engineering — SRM University, Chennai
+- 📫 Open to interesting full-stack conversations — email or LinkedIn is best
+
+## Featured public repos
+
+Pinned on [github.com/mehul-jain1](https://github.com/mehul-jain1). These are small, original repos (not production products).
+
+| Repo | What it is |
+| --- | --- |
+| [flask-api-base](https://github.com/mehul-jain1/flask-api-base) | Flask REST API boilerplate: JWT auth, SQLAlchemy, Celery/Redis, S3 uploads, Docker Compose, Swagger, pytest CI |
+| [graphql-rails-demo](https://github.com/mehul-jain1/graphql-rails-demo) | Rails + PostgreSQL blog app used to walk through GraphQL setup |
+| [exchangeratesapi](https://github.com/mehul-jain1/exchangeratesapi) | Ruby client gem for the [Exchange Rates API](https://exchangeratesapi.io/) |
+| [action-cable-demo](https://github.com/mehul-jain1/action-cable-demo) | Rails Action Cable example (real-time / WebSockets) |
+| [string_calculator_tdd](https://github.com/mehul-jain1/string_calculator_tdd) | String Calculator kata in Ruby with Minitest, committed TDD-style |
+| [slim-framework-demo](https://github.com/mehul-jain1/slim-framework-demo) | Small PHP [Slim](https://www.slimframework.com/) demo |
+
+Also on the profile: [blog](https://github.com/mehul-jain1/blog) (source for the GitHub Pages site). I have forks for GenAI workshop material (`crewai-podcast-generator`, `genai-agents-and-rag-lab`) — those are not original projects.
+
+## Languages and tools
+
+Drawn from public repos and the skills listed on my [resume](https://mehul-jain1.github.io/blog/resume/resume.html).
+
+**Backend** — Ruby on Rails · Python (Flask, FastAPI) · PHP (Slim)
+
+**Frontend** — JavaScript · React · Vue.js
+
+**Data** — PostgreSQL · MySQL · MongoDB · Elasticsearch · Redis
+
+**APIs** — REST · GraphQL · JWT
+
+**Ops & delivery** — Docker · GitHub Actions · AWS · Heroku · Kubernetes · Git
+
+**Testing** — pytest · Minitest · RSpec
+
+## Writing
+
+Notes and cheat sheets on [mehul-jain1.github.io/blog](https://mehul-jain1.github.io/blog/), including Git, Docker, authentication, and tools I use.
+
+## GitHub snapshot
+
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehul-jain1&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="GitHub stats for mehul-jain1" />
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-jain1&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="Top languages for mehul-jain1" />
+</p>
+
+## Contact
+
+- **Email:** [mehuljain160@gmail.com](mailto:mehuljain160@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mehuljain2](https://www.linkedin.com/in/mehuljain2)
+- **Blog / resume:** [mehul-jain1.github.io/blog](https://mehul-jain1.github.io/blog/)
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it's bad.” — Cory House</i><br>
+  Thanks for stopping by — feel free to browse the repos or say hello.
 </p>
