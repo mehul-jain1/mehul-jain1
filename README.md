@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehul Jain 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> at <a href="https://github.com/mehul-jain1">Emeritus</a><br>
+  <strong>Senior Full-Stack Engineer</strong> at Emeritus<br>
   Ruby, Python, and web APIs · Bengaluru, India
 </p>
 
